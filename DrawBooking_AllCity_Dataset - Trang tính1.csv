@@ -1,0 +1,416 @@
+City,ID,hotel_name,star,price_VND,discount_VND,distance_km,rating,rt_count,year,month,day
+DNG,12261673,Red Diamond Hotel DN - by BAY LUXURY,2,  468.000 ,,"  1,40 ",10,1,2025,3,14
+DNG,2263014,DaNa Sailing Hotel,2,  356.400 ,  110.000 ,"  2,70 ","9,2",36,2025,3,14
+DNG,5707914,Thanh Lan Riverside Hotel Da Nang,2,  302.670 ,  57.000 ,"  1,90 ","8,6",138,2025,3,14
+DNG,4432648,CODI SEA Hotel & Travel,2,  349.999 ,  38.889 ,"  2,60 ","8,5",182,2025,3,14
+DNG,11440047,Phu My Hai Hotel,2,  489.600 ,  950.400 ,"  1,90 ","8,6",10,2025,3,14
+DNG,1257006,Night Sky Hotel,2,  504.900 ,,"  2,30 ","8,6",14,2025,3,14
+DNG,6187591,Euro Star Riverside Hotel,2,  551.475 ,  61.275 ,"  1,90 ","8,7",233,2025,3,14
+DNG,11361658,Jim’s House,2,  813.450 ,  121.550 ,"  0,90 ","8,8",54,2025,3,14
+DNG,573422,D&C Hotel,2,  398.520 ,  73.800 ,"  1,40 ","8,6",550,2025,3,14
+DNG,4381290,Phuc Long Hotel,2,  225.000 ,,"  2,70 ",8,196,2025,3,14
+DNG,1655702,Kingdom Danang Hotel,2,  248.132 ,  76.670 ,"  2,60 ","8,3",286,2025,3,14
+DNG,13420643,BLUE LUXURY Hotel,2,  288.000 ,  72.000 ,"  2,00 ",8,1,2025,3,14
+DNG,1319310,Dam Tien Hotel,2,  288.849 ,  102.765 ,"  2,50 ","8,1",257,2025,3,14
+DNG,3450044,Thành Nhân Hotel,2,  360.000 ,  40.000 ,"  1,40 ","8,3",36,2025,3,14
+DNG,2688108,Bamboo Hotel,2,  400.000 ,,"  2,00 ","8,1",130,2025,3,14
+DNG,7010719,The Garden Capsule Hotel,2,  506.496 ,  100.911 ,"  0,60 ","8,1",309,2025,3,14
+DNG,737227,Red Diamond Hotel,2,  540.000 ,  60.000 ,"  1,50 ",8,14,2025,3,14
+DNG,307527,Dai A Hotel,2,  541.200 ,  98.400 ,"  0,45 ",8,93,2025,3,14
+DNG,781568,Dai Long Hotel,2,  512.359 ,  56.929 ,"  3,00 ","8,3",33,2025,3,14
+DNG,12362278,OYO 1246 Nha Khach Cuc Hau Can,2,  709.825 ,  738.797 ,"  2,10 ",8,1,2025,3,14
+DNG,905131,Misa Hotel Da Nang,2,  346.500 ,  70.000 ,"  2,70 ","7,3",66,2025,3,14
+DNG,322073,Song Thu hotel,2,  355.110 ,  43.890 ,"  0,80 ",7,28,2025,3,14
+DNG,2109129,Rich Hotel,2,  423.889 ,  78.498 ,"  2,70 ","7,1",168,2025,3,14
+DNG,11522525,Golden House Hotel,2,  649.500 ,  649.500 ,"  2,50 ","6,5",37,2025,3,14
+DNG,435032,Kay Hotel Da Nang,3,  270.000 ,  68.182 ,"  1,10 ",10,1,2025,3,14
+DNG,13109581,MORRI Homestay,3,  479.000 ,,"  2,70 ",10,6,2025,3,14
+DNG,12670847,Golden Sea Hotel,3,  1.500.000 ,  1.500.000 ,"  1,90 ",10,1,2025,3,14
+DNG,13293118,Doha Hotel and Apartment near Danang Airport,3,  555.750 ,  299.250 ,"  1,10 ","9,6",11,2025,3,14
+DNG,12199416,MiAn Hotel Danang - Infinity Pool,3,  576.220 ,  142.276 ,"  2,20 ","9,7",54,2025,3,14
+DNG,8655607,LH APARTMENT DA NANG,3,  670.000 ,,"  2,60 ","9,7",33,2025,3,14
+DNG,12745810,Vernal building Da Nang,3,  902.000 ,  1.298.000 ,"  0,20 ","9,9",8,2025,3,14
+DNG,1453399,Le House Boutique Hotel,3,  305.550 ,  373.450 ,"  2,70 ",9,1908,2025,3,14
+DNG,8823471,FSTAY - COZY AND PEACEFUL HOMESTAY DA NANG,3,  360.000 ,  540.000 ,"  1,30 ","9,2",95,2025,3,14
+DNG,13482744,Rice's House Boutique Hotel,3,  383.600 ,  164.400 ,"  2,60 ",9,7,2025,3,14
+DNG,5493032,Tam Homestay,3,  378.552 ,  42.061 ,"  0,80 ",9,114,2025,3,14
+DNG,11740497,Lupin Boutique Hotel Danang,3,  446.400 ,  160.000 ,"  2,10 ","9,2",133,2025,3,14
+DNG,6222829,AHA Thang Bom Apartment Da Nang,3,  480.000 ,  106.667 ,"  1,20 ","9,2",299,2025,3,14
+DNG,11314456,Le's Apartment & Coffee,3,  490.000 ,  490.000 ,"  1,50 ","9,2",30,2025,3,14
+DNG,1733500,Mai Boutique Villa,3,  702.000 ,  78.000 ,"  2,50 ",9,189,2025,3,14
+DNG,8048636,Bare Han - Bare Boutique Stays,3,  830.250 ,  123.000 ,"  0,60 ","9,1",171,2025,3,14
+DNG,5743942,Kaia Residence Danang Quiet Garden,3,  1.102.500 ,  175.000 ,"  1,10 ","9,3",38,2025,3,14
+DNG,5638850,Hadiva Boutique Hotel,3,  1.147.500 ,,"  0,50 ","9,4",43,2025,3,14
+DNG,547905,Hoang Sa Hotel,3,  283.500 ,  63.000 ,"  2,10 ","8,5",24,2025,3,14
+DNG,13346773,Kamala Hotel & Apartment Da Nang,3,  299.201 ,  48.889 ,"  2,70 ","8,6",24,2025,3,14
+DNG,8383746,Continent Apartment,3,  403.200 ,  320.000 ,"  2,00 ","8,7",128,2025,3,14
+DNG,1103332,Nhat Linh Hotel & Suites Da Nang,3,  484.785 ,  76.950 ,"  0,50 ","8,7",815,2025,3,14
+DNG,593996,Happy Day Riverside Hotel & Spa Danang by Haviland,3,  707.940 ,  131.100 ,"  0,60 ","8,9",342,2025,3,14
+DNG,5807146,Maple Suite Hotel & Apartment,3,  721.710 ,  80.190 ,"  2,70 ","8,8",140,2025,3,14
+DNG,4276203,AVORA Boutique Hotel,3,  771.429 ,  330.612 ,"  0,50 ","8,8",404,2025,3,14
+DNG,3277002,Merry Hotel,3,  815.265 ,  148.500 ,"  1,20 ","8,5",304,2025,3,14
+DNG,5683385,Bridges Danang Boutique Hotel,3,  1.134.000 ,  126.000 ,"  2,70 ","8,7",63,2025,3,14
+DNG,12710876,Platinum Orchid Hotel Danang,3,  1.350.000 ,  150.000 ,"  1,80 ","8,5",30,2025,3,14
+DNG,2325640,Grand Ngoc Bich hotel,3,  270.000 ,  60.000 ,"  2,60 ",8,1509,2025,3,14
+DNG,1172234,Tay Bac Hotel Da Nang,3,  341.649 ,  130.900 ,"  2,70 ","8,2",99,2025,3,14
+DNG,402041,Quoc Cuong Center Da Nang Hotel by Haviland,3,  385.400 ,  434.600 ,"  1,30 ","8,4",835,2025,3,14
+DNG,408551,Tarasa Hotel,3,  406.000 ,  994.000 ,"  1,00 ",8,21,2025,3,14
+DNG,11930347,Ocean Hotel,4,  528.000 ,  144.000 ,"  2,60 ",10,5,2025,3,14
+DNG,8936241,Two-Bedrooms - POOL SEA VIEW - 6A - BLUE SEA APARTMENT,4,  1.100.000 ,,"  2,50 ",10,1,2025,3,14
+DNG,11151056,Luxury Apartment Ocean View Free Pool,4,  3.540.000 ,  2.360.000 ,"  3,00 ",10,2,2025,3,14
+DNG,10155194,Luxury Altara Apartment in My Khe Area,4,  3.640.000 ,,"  3,00 ",10,2,2025,3,14
+DNG,12997044,The BackPacker Hotel,4,  432.000 ,  80.000 ,"  2,90 ","9,8",42,2025,3,14
+DNG,9665234,BaPhu Apartment - 5BR - 5 mins walk to My Khe beach,4,  508.356 ,  1.374.444 ,"  2,80 ","9,6",23,2025,3,14
+DNG,8465017,SHI HOUSE by Haviland,4,  841.320 ,  155.800 ,"  2,00 ","9,5",333,2025,3,14
+DNG,10404603,May Home Apartment Da Nang,4,  1.111.500 ,  123.500 ,"  2,40 ","9,6",17,2025,3,14
+DNG,2604345,Monarque Hotel Danang,4,  1.583.640 ,  1.935.560 ,"  2,80 ","9,5",429,2025,3,14
+DNG,10838410,Alacarte Luxury Ocean View Condotel,4,  1.676.700 ,  186.300 ,"  2,70 ","9,5",15,2025,3,14
+DNG,12103877,Luxurious Ocean View Suites in AAltara Suites Building,4,  2.187.000 ,  243.000 ,"  3,00 ","9,5",17,2025,3,14
+DNG,13649504,ORANGE Hotel - Danang City Center,4,  269.100 ,  29.900 ,"  0,35 ","9,4",9,2025,3,14
+DNG,10422182,La Belle Vie Boutique Hotel,4,  495.000 ,  275.000 ,"  2,10 ",9,419,2025,3,14
+DNG,6742394,Duc Hanh Apartment,4,  540.000 ,,"  2,90 ","9,3",50,2025,3,14
+DNG,398587,Star Hotel and Spa Danang,4,  570.000 ,  930.000 ,"  2,60 ",9,1103,2025,3,14
+DNG,12183430,Elites Hotel,4,  585.000 ,  130.000 ,"  2,60 ",9,490,2025,3,14
+DNG,10991709,Dana Boutique Hotel & Apartment,4,  648.000 ,  2.052.000 ,"  2,20 ",9,140,2025,3,14
+DNG,1786386,Danaciti Hotel,4,  661.500 ,  175.000 ,"  2,50 ","9,2",36,2025,3,14
+DNG,11308334,Hadana Boutique Hotel Danang,4,  668.250 ,  225.000 ,"  1,80 ",9,637,2025,3,14
+DNG,5801228,La Maison Des Délices,4,  714.286 ,  178.571 ,"  2,10 ","9,1",365,2025,3,14
+DNG,12289097,SOJO Hotel Da Nang,4,  938.700 ,  149.000 ,"  0,40 ","9,3",7,2025,3,14
+DNG,10088893,The Home Hotel & Apartment,4,  1.040.445 ,  1.932.255 ,"  2,10 ","9,4",33,2025,3,14
+DNG,1736439,BlueSun Danang Beach Hotel,4,  1.162.800 ,  380.000 ,"  2,80 ","9,1",696,2025,3,14
+DNG,8256592,The Dream Suite,4,  1.275.750 ,  405.000 ,"  2,70 ","9,4",658,2025,3,14
+DNG,1341439,Vanda Hotel,4,  1.469.700 ,  355.000 ,"  0,90 ","9,1",880,2025,3,14
+DNG,2738814,New Orient Hotel Da Nang,4,  1.472.500 ,  1.472.500 ,"  1,60 ","9,2",262,2025,3,14
+DNG,8826585,Wink Hotel Danang Centre - Affordable Luxury - 24hrs Stay & Dragon Bridge View,4,  1.530.000 ,  170.000 ,"  0,60 ",9,470,2025,3,14
+DNG,8565734,Cozy Danang Boutique Hotel,4,  1.569.780 ,  306.000 ,"  0,80 ","9,3",701,2025,3,14
+DNG,4447542,Fivitel Boutique Da Nang,4,  1.620.000 ,  400.000 ,"  0,45 ","9,1",1075,2025,3,14
+DNG,2424038,Belle Maison Parosand Da Nang Hotel -managed by H&K Hospitality,4,  1.748.399 ,  511.228 ,"  2,80 ",9,295,2025,3,14
+DNG,4932382,Chicland Boutique Danang Beach Hotel,4,  1.908.000 ,,"  2,80 ",9,526,2025,3,14
+DNG,5031361,CN Palace Boutique Hotel & Spa,4,  2.011.392 ,  698.400 ,"  1,40 ","9,3",69,2025,3,14
+DNG,4711008,Stella Maris Beach Danang,4,  2.236.500 ,,"  2,80 ","9,2",910,2025,3,14
+DNG,1295315,Diamond Sea Hotel,4,  2.295.000 ,,"  2,80 ",9,779,2025,3,14
+DNG,9235619,"Luxury Beach Condo 5-star, Rooftop pool",4,  4.308.100 ,,"  3,00 ","9,2",103,2025,3,14
+DNG,13137745,"Signature by M Village Danang Heritage, A modern luxury stay",5,  1.448.550 ,  435.000 ,"  1,40 ","9,4",28,2025,3,14
+DNG,9374261,Wink Icon Hotel Danang Riverside - Luxury Suites - 24hrs Stay & Rooftop Pool Bar,5,  1.800.000 ,,"  1,10 ",9,456,2025,3,14
+DNG,9143636,Crowne Plaza Danang City Centre by IHG,5,  1.991.306 ,,"  0,80 ","9,3",484,2025,3,14
+DNG,9590581,voco Ma Belle Danang by IHG,5,  2.344.957 ,,"  2,80 ","9,1",306,2025,3,14
+DNG,6957848,Radisson Hotel Danang,5,  1.620.000 ,,"  2,80 ","8,8",786,2025,3,14
+DNG,306866,Grand Mercure Danang,5,  1.698.725 ,,"  2,40 ","8,8",240,2025,3,14
+DNG,10540453,Awaken Da Nang Hotel,5,  2.007.900 ,  485.000 ,"  2,90 ","8,8",577,2025,3,14
+DNG,3457161,Meliá Vinpearl Danang Riverfront,5,  2.011.941 ,,"  1,60 ","8,9",1119,2025,3,14
+DNG,426861,Novotel Danang Premier Han River,5,  2.079.000 ,,"  1,10 ","8,7",610,2025,3,14
+DNG,1364833,THE BLOSSOM RESORT ISLAND - All Inclusive,5,  2.131.820 ,,"  2,60 ","8,8",218,2025,3,14
+DNG,3347357,Four Points by Sheraton Danang,5,  2.585.000 ,,"  3,00 ","8,5",684,2025,3,14
+DNG,2693639,Hilton Da Nang,5,  3.501.225 ,,"  0,70 ","8,5",474,2025,3,14
+DNG,2332406,The Nalod Da Nang,5,  1.386.450 ,  395.000 ,"  2,80 ","8,4",225,2025,3,14
+DNG,1123485,Grand Tourane Hotel Da Nang,5,  1.509.840 ,  419.400 ,"  2,90 ","8,4",269,2025,3,14
+DNG,246975,Muong Thanh Luxury Song Han Hotel,5,  997.920 ,  198.000 ,"  0,90 ","7,9",292,2025,3,14
+DNG,2469518,Altara Suites Da Nang by AHG,5,  3.138.750 ,  465.000 ,"  3,00 ","7,9",408,2025,3,14
+DNG,13634818,Oyo pegasus,5,  380.000 ,,"  2,60 ",,,2025,3,14
+DNG,11550582,Serenity Retreat,3,  954.722 ,,"  2,60 ","8,8",7,2025,3,14
+DNG,1453399,Le House Boutique Hotel,3,  305.550 ,,"  2,70 ",9,1908,2025,3,14
+DNG,593996,Happy Day Riverside Hotel & Spa Danang by Haviland,3,  405.181 ,,"  0,60 ","8,9",342,2025,3,14
+DNG,2325640,Grand Ngoc Bich hotel,3,  248.023 ,,"  2,60 ",8,1509,2025,3,14
+DNG,1172234,Tay Bac Hotel Da Nang,3,  341.649 ,  130.900 ,"  2,70 ","8,2",99,2025,3,14
+DNG,3277002,Merry Hotel,3,  542.374 ,,"  1,20 ","8,5",304,2025,3,14
+DNG,12199416,MiAn Hotel Danang - Infinity Pool,3,  576.220 ,  142.276 ,"  2,20 ","9,7",54,2025,3,14
+DNG,3292083,Greenery Hotel,3,  480.600 ,  133.500 ,"  2,70 ","7,6",279,2025,3,14
+DNG,10134707,Adina 3 Star Hotel,3,  369.200 ,,"  1,90 ",7,838,2025,3,14
+DNG,2818836,Lavender Riverside Hotel,3,  518.826 ,,"  2,40 ","8,3",342,2025,3,14
+DNG,13346773,Kamala Hotel & Apartment Da Nang,3,  299.201 ,  48.889 ,"  2,70 ","8,6",24,2025,3,14
+DNG,4018697,Hana Hotel Da Nang,3,  220.000 ,,"  2,40 ",7,32,2025,3,14
+DNG,4244783,Duong Gia Hotel Da Nang,3,  270.000 ,  100.000 ,"  2,40 ","8,2",178,2025,3,14
+DNG,6222829,AHA Thang Bom Apartment Da Nang,3,  441.783 ,,"  1,20 ","9,2",299,2025,3,14
+DNG,1004683,Waikiki Beach Hotel,3,  324.042 ,,"  2,60 ",8,418,2025,3,14
+DNG,3539571,Rosabella Boutique Hotel,3,  425.571 ,  114.345 ,"  2,40 ","8,5",431,2025,3,14
+DNG,13482744,Rice's House Boutique Hotel,3,  383.600 ,,"  2,60 ",9,7,2025,3,14
+DNG,9077922,POTA Hotel & Apartment,3,  310.882 ,  71.963 ,"  0,60 ","8,6",159,2025,3,14
+DNG,1710638,Centre Hotel,3,  348.870 ,,"  0,60 ","7,7",276,2025,3,14
+DNG,12864076,Mercury Apartment Danang,3,  502.200 ,  55.800 ,"  1,20 ","7,5",13,2025,3,14
+DNG,2531817,Central Hotel & Spa Danang,4,  550.000 ,,"  0,35 ","8,3",470,2025,3,14
+DNG,1239946,Royal Family Hotel,4,  393.300 ,  218.500 ,"  2,80 ","8,7",2516,2025,3,14
+DNG,11401501,TGT BEACH HOTEL,4,  346.788 ,  160.550 ,"  2,60 ","8,7",1031,2025,3,14
+DNG,1277995,Ocean Haven Hotel,4,  332.745 ,,"  2,60 ","8,1",179,2025,3,14
+DNG,11360949,Phuoc My An Beach,4,  529.200 ,  70.000 ,"  2,60 ","7,3",52,2025,3,14
+DNG,2347791,Dana Marina Boutique Hotel,4,  464.100 ,,"  2,70 ","8,2",439,2025,3,14
+DNG,2307737,Bantique Hotel,4,  312.000 ,,"  1,70 ","8,1",1053,2025,3,14
+DNG,1347988,KOVA Diamond Hotel Da Nang,4,  463.320 ,,"  2,70 ","8,1",215,2025,3,14
+DNG,2343234,Merry Land Hotel Da Nang,4,  349.267 ,  204.250 ,"  1,90 ","8,8",4550,2025,3,14
+DNG,1699324,Grand Sea Hotel Danang,4,  569.506 ,,"  2,70 ","8,3",236,2025,3,14
+DNG,720288,"Moonlight Hotel SUITES & Spa VIP - High Floor, The Best View in the City CENTER, DRAGON Bridge View",4,  389.970 ,,"  0,50 ","8,2",656,2025,3,14
+DNG,9751497,Yes Hotel Đà Nẵng,4,  469.800 ,  145.000 ,"  2,50 ","8,2",42,2025,3,14
+DNG,4673936,Golden Rose Hotel,4,  311.500 ,  77.000 ,"  2,50 ","8,7",3551,2025,3,14
+DNG,3069360,JBAY Beachfront Boutique Hotel,4,  1.215.000 ,  225.000 ,"  2,80 ","8,7",418,2025,3,14
+DNG,11802883,Golden Light Da Nang Hotel,4,  318.667 ,,"  2,60 ","8,3",119,2025,3,14
+DNG,4423991,Cordial Beach Hotel Da Nang,4,  540.000 ,  100.000 ,"  2,40 ","7,9",581,2025,3,14
+DNG,4280955,Everland Hotel,4,  539.047 ,,"  2,00 ",8,1213,2025,3,14
+DNG,2037529,Paracel Beach Hotel,4,  1.073.880 ,  314.000 ,"  2,80 ","8,5",255,2025,3,14
+DNG,2546825,Tuyet Son Hotel (TS Ocean Hotel),4,  585.631 ,,"  2,80 ","7,9",405,2025,3,14
+DNG,4853713,Prague Da Nang Beach Hotel,4,  535.040 ,  228.000 ,"  2,40 ","8,5",220,2025,3,14
+HN,6100483,Hai Duong Apartments 70 Van Kiep,2,  357.210 ,  39.690 ,"  1,60 ","7,5",84,2025,3,14
+HN,4975317,Hanoi Asia Hotel,2,  658.350 ,  73.150 ,"  0,90 ","7,6",192,2025,3,14
+HN,617544,Memory Hotel,2,  423.360 ,  8.640 ,"  1,00 ",7,177,2025,3,14
+HN,2347543,Lavender Boutique House,2,  792.000 ,  110.000 ,"  1,10 ","8,1",127,2025,3,14
+HN,2644927,Hanoi Bel Ami Hotel,2,  639.113 ,  109.250 ,"  1,00 ","7,4",200,2025,3,14
+HN,8304563,Holiday Lakeview Hotel,2,  639.900 ,,"  0,45 ","6,9",17,2025,3,14
+HN,558571,Hanoi Asia 2 Long Bien,2,  380.700 ,  42.300 ,"  2,20 ","7,9",109,2025,3,14
+HN,9004616,Ancient Lane Hotel,2,  690.000 ,,"  0,70 ","8,2",832,2025,3,14
+HN,292226,Especen Hotel,2,  570.000 ,,"  0,40 ","7,8",186,2025,3,14
+HN,10787999,Hanoi AVANA HOMESTAY LONG BIEN,2,  430.560 ,  92.000 ,"  2,80 ","6,7",68,2025,3,14
+HN,5414820,BH Riverside Hotel,2,  446.489 ,  80.016 ,"  1,00 ","6,8",346,2025,3,14
+HN,361386,Tung Trang Hotel,2,  857.304 ,  194.400 ,"  0,60 ","8,5",1183,2025,3,14
+HN,3884777,Hanoi Golden Hotel,2,  877.838 ,  130.050 ,"  1,00 ","8,8",815,2025,3,14
+HN,256861,Golden Time Hostel 3,2,  669.600 ,  120.000 ,"  0,70 ","8,9",414,2025,3,14
+HN,8529337,Hanoi View Legend Hotel,2,  899.640 ,  119.000 ,"  0,60 ","7,3",1083,2025,3,14
+HN,12996798,Ha Noi Group Nest Hotel,2,  495.000 ,  125.000 ,"  0,80 ","6,5",30,2025,3,14
+HN,260418,Prince II Hotel,2,  930.000 ,  2.070.000 ,"  0,80 ",8,817,2025,3,14
+HN,1905309,Maison d'Hanoi Hotel,2,  643.500 ,  346.500 ,"  0,80 ","7,8",342,2025,3,14
+HN,3337749,The Queen Hotel & Spa 2,2,  934.088 ,  49.162 ,"  0,45 ","9,3",82,2025,3,14
+HN,557805,A25 Hotel - 61 Lương Ngọc Quyến,2,  1.197.990 ,  156.600 ,"  0,70 ","8,8",30,2025,3,14
+HN,11224268,Golden Diamond Hotel,2,  633.600 ,  88.000 ,"  1,30 ","7,4",300,2025,3,14
+HN,4306551,Hanoi Boutique House,2,  780.000 ,,"  1,10 ","8,7",672,2025,3,14
+HN,7908525,Valentine Hotel Hanoi,2,  1.253.070 ,  139.230 ,"  1,10 ","7,5",2,2025,3,14
+HN,11872086,Khách Sạn Giao Thông,2,  560.000 ,  140.000 ,"  1,60 ","6,3",9,2025,3,14
+HN,9894190,HOTEL LAO CAI 33C CÁT LINH,2,  480.000 ,,"  2,50 ","6,6",21,2025,3,14
+HN,617609,518 Chariot Hotel,2,  1.782.000 ,  198.000 ,"  1,80 ","7,4",60,2025,3,14
+HN,10611866,Phúc Quý -149B Lê Duẩn HN - by BAY LUXURY,2,  515.700 ,,"  1,20 ","6,2",6,2025,3,14
+HN,13529314,Old Quarter Autumn Hostel,3,  648.000 ,  162.000 ,"  0,80 ",10,1,2025,3,14
+HN,9045804,HANZ Light House Condo Hotel,3,  653.563 ,  159.600 ,"  1,40 ",10,9,2025,3,14
+HN,13279267,Hanoi Vista Hotel,3,  1.100.000 ,,"  1,30 ",10,20,2025,3,14
+HN,13599335,Hanoi Heritage Corner Hotel & Spa,3,  810.000 ,  290.322 ,"  0,50 ","9,6",11,2025,3,14
+HN,13434029,Queen Cafe Hotel,3,  1.012.500 ,  150.000 ,"  1,20 ","9,9",29,2025,3,14
+HN,2130356,Splendid Hotel & Spa,3,  1.215.761 ,  422.139 ,"  0,45 ","9,5",764,2025,3,14
+HN,11734205,Brilliant Nature Suites & Spa,3,  1.701.000 ,  450.000 ,"  1,10 ","9,6",5,2025,3,14
+HN,242514,Eliana Ruby Hotel & Travel,3,  1.713.600 ,  680.000 ,"  0,60 ","9,5",2661,2025,3,14
+HN,2914849,Golden Rooster Hotel,3,  1.894.500 ,  421.000 ,"  1,00 ","9,5",3009,2025,3,14
+HN,10859941,Astoria Hotel - St Joseph Cathedral Hanoi,3,  6.435.000 ,  5.500.000 ,"  0,45 ","9,9",52,2025,3,14
+HN,12775268,Laca Homestay HangDa,3,  700.000 ,,"  0,80 ","9,3",35,2025,3,14
+HN,10432680,HANZ Ami Central Hotel 30 Hang Cot,3,  759.267 ,  162.236 ,"  0,70 ",9,1,2025,3,14
+HN,12870525,Hanoi Old Town,3,  774.749 ,  215.208 ,"  1,10 ","9,2",132,2025,3,14
+HN,9836341,Nam Hai Hotel,3,  806.895 ,  1.069.605 ,"  2,00 ",9,47,2025,3,14
+HN,10998449,HoLo Central Hanoi - Serviced HomeStay,3,  818.829 ,  90.981 ,"  1,10 ","9,1",107,2025,3,14
+HN,11323822,NT Elysian hotel,3,  858.528 ,  216.800 ,"  1,00 ","9,4",698,2025,3,14
+HN,11908223,Hanoi Ben's Apartment and Hotel,3,  891.000 ,  900.000 ,"  1,20 ",9,307,2025,3,14
+HN,12607947,Gilson Hanoi Hotel,3,  900.000 ,  125.000 ,"  2,40 ",9,53,2025,3,14
+HN,13080548,Hanoi Shining House,3,  900.000 ,  900.000 ,"  1,40 ","9,2",107,2025,3,14
+HN,9812539,Hanoi Sisters Boutique Hotel - 16 Hang Thung - by Bay Luxury,3,  902.700 ,,"  0,50 ",9,1,2025,3,14
+HN,1786422,An Nguyen Boutique Hotel,3,  917.600 ,  322.400 ,"  1,40 ",9,848,2025,3,14
+HN,10957450,Hanoi Prime Garden Hotel & Spa,3,  945.000 ,  350.000 ,"  1,10 ","9,1",1620,2025,3,14
+HN,413519,Hanoi Luxury Hotel,3,  1.088.000 ,,"  0,50 ","9,2",46,2025,3,14
+HN,10880996,Silk Hanoi Moment Hotel & Spa,3,  1.089.270 ,  232.750 ,"  0,60 ",9,939,2025,3,14
+HN,12068872,Amanda Boutique Hotel & Travel,3,  1.096.200 ,  420.000 ,"  0,50 ",9,865,2025,3,14
+HN,240533,Ambassador Hanoi Hotel & Travel,3,  1.108.788 ,  332.969 ,"  0,70 ","9,1",1547,2025,3,14
+HN,4803463,Hanoi Lakeside Premium Hotel & Travel,3,  1.134.000 ,  900.000 ,"  0,50 ",9,1118,2025,3,14
+HN,9043780,Kingdom Hotel Hanoi,3,  1.260.000 ,  140.000 ,"  0,80 ",9,507,2025,3,14
+HN,10375166,Hanoi Liliane Hotel and Travel,3,  1.291.500 ,  553.500 ,"  0,90 ",9,651,2025,3,14
+HN,2085226,Blue Hanoi Hotel,3,  1.350.000 ,,"  1,60 ","9,1",82,2025,3,14
+HN,12436166,Hanoi Center View Hotel and Spa,3,  1.350.000 ,  1.350.000 ,"  0,80 ","9,3",340,2025,3,14
+HN,11127250,Hanoi Ancient Paradise Hotel,3,  1.382.219 ,  614.319 ,"  1,00 ","9,3",389,2025,3,14
+HN,451032,Hanoi Diamond King Hotel & Travel,3,  1.395.000 ,  155.000 ,"  0,70 ",9,329,2025,3,14
+HN,3244605,Hotel Du Palace,4,  1.075.680 ,  4.900.320 ,"  0,50 ","9,6",45,2025,3,14
+HN,8649515,Hanoi Garden Hotel & Spa,4,  1.500.750 ,  287.500 ,"  0,90 ","9,6",680,2025,3,14
+HN,13266820,M Village Hotel Thợ Nhuộm,4,  1.560.000 ,  2.440.000 ,"  0,80 ","9,6",7,2025,3,14
+HN,11045857,Serene Central Hotel,4,  1.728.000 ,  600.000 ,"  0,70 ","9,8",638,2025,3,14
+HN,11596433,Splendid Holiday Hotel Spa,4,  1.760.550 ,  652.056 ,"  0,40 ","9,5",577,2025,3,14
+HN,5174629,Aurora Premium - A Lifestyle Hotel,4,  1.905.120 ,  470.400 ,"  0,50 ","9,6",1001,2025,3,14
+HN,13249946,Aurora Central Hanoi Hotel,4,  1.923.750 ,  475.000 ,"  1,00 ","9,6",107,2025,3,14
+HN,11116721,Lestar Hotel Hanoi,4,  1.927.800 ,  510.000 ,"  1,50 ","9,5",128,2025,3,14
+HN,12648931,The Q Boutique Hotel,4,  1.927.800 ,  306.000 ,"  0,80 ","9,5",73,2025,3,14
+HN,10851879,Eliana Premio Hotel Hanoi,4,  2.013.428 ,  798.980 ,"  0,70 ","9,5",1682,2025,3,14
+HN,11721201,Minerva Premium Hotel,4,  2.135.250 ,  365.000 ,"  0,45 ","9,7",495,2025,3,14
+HN,12373917,T Boutique Hotel,4,  2.152.800 ,  460.000 ,"  1,70 ","9,6",98,2025,3,14
+HN,536812,Lavender Central Hotel & Spa Hanoi,4,  2.169.477 ,  5.062.112 ,"  0,70 ","9,6",2424,2025,3,14
+HN,12926406,Calista Trendy Hotel & Spa,4,  2.329.204 ,  417.420 ,"  0,70 ","9,6",86,2025,3,14
+HN,12296087,Acoustic Premium Hotel & Spa,4,  2.524.500 ,  14.305.500 ,"  0,80 ","9,5",120,2025,3,14
+HN,1292511,Sunline Central Hotel,4,  2.534.775 ,  938.805 ,"  0,40 ","9,4",387,2025,3,14
+HN,9031157,Hanoi Lion Boutique Hotel & Spa,4,  2.556.234 ,  481.400 ,"  0,80 ","9,8",423,2025,3,14
+HN,4725823,La Siesta Premium Hang Be,4,  2.943.338 ,  327.037 ,"  0,60 ","9,5",602,2025,3,14
+HN,4295623,Solare De Monte Hotel & Spa,4,  2.989.508 ,  897.750 ,"  1,00 ","9,8",560,2025,3,14
+HN,8278293,GM Premium Hotel,4,  3.348.329 ,  729.483 ,"  0,50 ","9,6",933,2025,3,14
+HN,305528,Urban Alley Hotel,4,  731.025 ,  180.500 ,"  0,80 ","8,6",546,2025,3,14
+HN,10670338,La Renta Premier Hotel & Spa Hanoi,4,  976.500 ,  310.000 ,"  0,80 ","8,1",849,2025,3,14
+HN,334136,22Land Residence Hotel & Spa 52 Ngo Huyen,4,  984.150 ,  109.350 ,"  0,45 ","7,8",967,2025,3,14
+HN,9860439,Tunger Grand Hotel,4,  999.900 ,  222.200 ,"  0,80 ","8,8",403,2025,3,14
+HN,10314653,Wild Lotus Hotel & Travel 2,4,  1.053.000 ,  117.000 ,"  0,60 ","8,7",207,2025,3,14
+HN,4018750,Golden Sail Hotel & Spa,4,  1.080.000 ,  600.000 ,"  0,90 ","8,4",2832,2025,3,14
+HN,11734564,Madelise Amica Hotel and Travel,4,  1.117.800 ,  207.000 ,"  0,80 ","8,7",297,2025,3,14
+HN,8960454,Hanoi Elpis Hotel & Spa,4,  1.150.200 ,  255.600 ,"  0,35 ","8,2",562,2025,3,14
+HN,12163610,TrangTrang Luxury Hotel,4,  1.173.480 ,  1.493.520 ,"  0,45 ","9,1",641,2025,3,14
+HN,875785,Hanoi Delica Hotel,4,  1.180.078 ,  247.396 ,"  0,60 ","9,3",432,2025,3,14
+HN,11175555,TrangTrang Premium Hotel & Sky Bar,4,  1.200.150 ,  266.700 ,"  0,50 ","9,2",954,2025,3,14
+HN,9018503,Aviary Hanoi Hotel & Travel,4,  1.208.221 ,  2.243.839 ,"  0,60 ",9,1249,2025,3,14
+HN,11602145,Amara Hanoi Hotel,4,  1.242.442 ,  511.293 ,"  0,60 ","9,2",823,2025,3,14
+HN,10580146,Sena Boutique Hotel & Travel,4,  1.247.400 ,  990.000 ,"  0,60 ",9,1119,2025,3,14
+HN,439715,Classy Holiday Hotel & Spa,4,  1.250.010 ,  323.000 ,"  0,90 ","8,6",1963,2025,3,14
+HN,11889828,Hanoi Tunger Premium Hotel & Travel,4,  1.250.100 ,  277.800 ,"  0,45 ","9,3",514,2025,3,14
+HN,11471276,Dream Boutique Hotel & Travel & Spa,4,  1.253.880 ,  324.000 ,"  0,60 ","8,6",578,2025,3,14
+HN,10723570,Madelise Adora Hotel & Travel,4,  1.267.200 ,  352.000 ,"  0,70 ","8,5",118,2025,3,14
+HN,2484675,Splendid Premium Hotel,5,  3.047.220 ,  752.400 ,"  0,50 ","9,4",744,2025,3,14
+HN,71048,Melia Hanoi,5,  3.283.597 ,  364.844 ,"  0,60 ","8,9",1019,2025,3,14
+HN,5663337,Anatole Hotel Hanoi,5,  3.294.735 ,  563.202 ,"  0,25 ","9,4",809,2025,3,14
+HN,71077,Mövenpick Hotel Hanoi Centre,5,  3.330.000 ,,"  0,90 ","8,6",163,2025,3,14
+HN,1199533,Apricot Hotel,5,  3.460.320 ,  801.000 ,"  0,15 ","8,7",308,2025,3,14
+HN,13352236,Hotel Château de Hanoi,5,  3.516.279 ,  813.953 ,"  0,80 ","9,9",81,2025,3,14
+HN,10192751,La Siesta Classic Hang Thung,5,  4.251.488 ,  472.387 ,"  0,50 ","9,4",1116,2025,3,14
+HN,8864473,HOTEL De SOURIANT Premium Hanoi,5,  4.766.250 ,  10.608.750 ,"  0,80 ","9,5",920,2025,3,14
+HN,11866055,CLASSYC Hotel,5,  4.455.000 ,  773.437 ,"  0,60 ","9,6",837,2025,3,14
+HN,264443,May De Ville Lakeside Hotel,5,  5.088.375 ,  1.413.437 ,"  0,60 ","9,4",2269,2025,3,14
+HN,10080877,GRAND HOTEL du LAC Hanoi,5,  5.610.092 ,  1.176.120 ,"  0,25 ","9,5",2150,2025,3,14
+HN,4857532,The Oriental Jade Hotel,5,  5.923.958 ,  1.778.966 ,"  0,30 ","9,6",3240,2025,3,14
+HN,6105345,Peridot Grand Luxury Boutique Hotel,5,  6.009.440 ,  7.054.560 ,"  0,90 ","9,3",3644,2025,3,14
+HN,273931,Hotel de l'Opera Hanoi - MGallery,5,  6.079.500 ,,"  0,50 ","8,6",244,2025,3,14
+HN,71003,Sofitel Legend Metropole Hanoi,5,  8.683.462 ,,"  0,40 ","9,4",625,2025,3,14
+HN,7022588,Capella Hanoi,5,  20.837.250 ,,"  0,50 ","9,6",124,2025,3,14
+HN,13117096,THE LEGEND HANOI Hotel,5,  2.277.000 ,  7.623.000 ,"  1,10 ","9,5",103,2025,3,14
+HN,13123280,HOTEL de LAGOM,5,  3.069.495 ,  874.500 ,"  1,00 ","9,2",27,2025,3,14
+HN,71041,Pan Pacific Hanoi,5,  3.991.457 ,  443.495 ,"  2,80 ","8,6",435,2025,3,14
+HN,184538,Hôtel du Parc Hanoï,5,  3.104.233 ,  447.941 ,"  1,60 ","8,7",192,2025,3,14
+HN,184587,Pullman Hanoi,5,  3.150.000 ,,"  2,50 ","7,4",591,2025,3,14
+HN,1927870,The Chi Boutique Hotel,4,  2.067.120 ,  522.000 ,"  0,25 ",9,244,2025,3,14
+HN,4040357,Hanoi L'Heritage Diamond Hotel & Spa,4,  1.921.500 ,  350.000 ,"  0,25 ","9,1",2449,2025,3,14
+HN,434850,Minerva Church Hotel,4,  1.822.500 ,  405.000 ,"  0,25 ","9,4",1221,2025,3,14
+HN,598353,Hanoi Pearl Hotel,4,  3.624.177 ,  559.286 ,"  0,35 ","8,9",1071,2025,3,14
+HN,631952,Bonsella Hotel,4,  2.315.504 ,  467.778 ,"  0,35 ","8,9",383,2025,3,14
+HN,10481650,L'Signature Hotel & Spa,4,  3.420.000 ,  844.444 ,"  0,35 ","9,7",1378,2025,3,14
+HN,10887861,Golden Sunshine Villa Hotel and Travel,4,  2.142.000 ,  1.700.000 ,"  0,35 ","9,1",460,2025,3,14
+HN,449861,Golden Lotus Luxury Hotel,4,  1.824.048 ,  382.400 ,"  0,40 ","7,9",223,2025,3,14
+HN,3249175,Hanoi Dalvostro Valentino Hotel & Spa,4,  16.508.700 ,  5.395.000 ,"  0,40 ","9,6",1301,2025,3,14
+HN,5016050,La Sinfonía del Rey Hotel & Spa,4,  3.922.105 ,  680.921 ,"  0,40 ","9,4",1401,2025,3,14
+HN,498154,Splendid Star Grand Hotel and Spa,4,  1.586.096 ,  587.443 ,"  0,40 ","9,2",2167,2025,3,14
+HN,4091447,S Central Hotel and Spa,4,  1.813.500 ,  4.036.500 ,"  0,40 ","9,5",484,2025,3,14
+HN,8841215,HOTEL du LAC Hanoi,4,  3.534.300 ,  714.000 ,"  0,40 ","9,5",2106,2025,3,14
+HN,394659,Authentic Hanoi Boutique Hotel,4,  1.908.000 ,  400.000 ,"  0,40 ","8,8",143,2025,3,14
+HN,4361910,Splendid Pearlight Hanoi,4,  1.280.610 ,  459.000 ,"  0,45 ","9,4",264,2025,3,14
+HCM,184514,Equatorial Ho Chi Minh City,5,  2.772.000 ,  1.188.000 ,"  2,30 ","8,2",124,2025,3,14
+HCM,74333,Caravelle Saigon,5,  3.519.803 ,  391.089 ,"  0,80 ","8,8",2398,2025,3,14
+HCM,184542,Hotel Grand Saigon,5,  3.749.100 ,  5.623.651 ,"  0,80 ","8,4",1368,2025,3,14
+HCM,184702,Sherwood Residence,5,  3.817.350 ,  424.150 ,"  1,40 ",9,854,2025,3,14
+HCM,577375,Pullman Saigon Centre,5,  3.990.000 ,,"  1,00 ","8,4",836,2025,3,14
+HCM,12299150,La Siesta Premium Saigon Central,5,  4.067.820 ,  451.980 ,"  0,35 ","9,3",590,2025,3,14
+HCM,291654,Lotte Hotel Saigon,5,  4.106.052 ,  216.108 ,"  1,20 ",9,648,2025,3,14
+HCM,191364,Somerset Chancellor Court,5,  4.164.048 ,  462.672 ,"  1,40 ","8,7",533,2025,3,14
+HCM,172294,Renaissance Riverside Hotel Saigon,5,  4.200.000 ,,"  0,90 ","8,2",287,2025,3,14
+HCM,71002,Sofitel Saigon Plaza,5,  4.381.635 ,,"  1,50 ","8,8",573,2025,3,14
+HCM,3611715,Sedona Suites Ho Chi Minh City,5,  4.484.516 ,  498.280 ,"  0,30 ","9,1",360,2025,3,14
+HCM,321193,Hotel Nikko Saigon,5,  4.552.979 ,  640.363 ,"  1,90 ",9,1221,2025,3,14
+HCM,11068574,"Hotel Indigo Saigon the City, an IHG Hotel",5,  4.555.455 ,,"  1,40 ",7,1,2025,3,14
+HCM,191363,Somerset Ho Chi Minh City,5,  4.674.915 ,,"  2,00 ",9,907,2025,3,14
+HCM,1415151,Hotel Des Arts Saigon Mgallery Collection,5,  4.860.000 ,,"  1,20 ","9,1",1007,2025,3,14
+HCM,171186,New World Saigon Hotel,5,  4.908.902 ,,"  0,35 ","8,9",858,2025,3,14
+HCM,380813,Sheraton Saigon Grand Opera Hotel,5,  5.000.000 ,,"  0,80 ","9,1",461,2025,3,14
+HCM,187832,JW Marriott Hotel and Suites Saigon,5,  5.100.000 ,,"  1,10 ","8,8",319,2025,3,14
+HCM,8515690,Fusion Original Saigon Centre,5,  5.197.500 ,  825.000 ,"  0,35 ","9,2",2411,2025,3,14
+HCM,4857560,Mai House Saigon Hotel,5,  5.255.781 ,  729.970 ,"  1,40 ","9,2",1557,2025,3,14
+HCM,11131186,Haven Hut Riverside Hotel,2,  663.366 ,  718.647 ,"  2,20 ","8,1",153,2025,3,14
+HCM,1502505,Kim Dung Hotel Tran Quang Khai,2,  675.000 ,  150.000 ,"  2,40 ","7,4",304,2025,3,14
+HCM,7328080,Bros Hotel,2,  810.000 ,  120.000 ,"  1,60 ","7,7",456,2025,3,14
+HCM,3963167,Calmette Hotel 151 - Ben Thanh,2,  739.350 ,  155.000 ,"  0,25 ","7,9",632,2025,3,14
+HCM,11904995,Nicecy Hotel - 7 Yersin Street,2,  640.657 ,  178.290 ,"  0,70 ","7,6",150,2025,3,14
+HCM,8848363,Sai Gon Hotel Bui Vien Walking Street,2,  631.432 ,  134.538 ,"  0,60 ","7,3",818,2025,3,14
+HCM,10514028,Haven Hut Hotel,2,  1.048.326 ,  227.024 ,"  1,20 ","8,2",501,2025,3,14
+HCM,12233630,Ruby Star Hotel Nam Quoc Cang,2,  700.484 ,  77.832 ,"  1,20 ","8,2",62,2025,3,14
+HCM,8832227,The Hotel Nicecy,2,  1.298.915 ,  380.570 ,"  0,30 ","7,7",1062,2025,3,14
+HCM,1190897,Nicecy NganHa Hotel,2,  1.443.708 ,  307.648 ,"  0,20 ",8,2068,2025,3,14
+HCM,13414144,NICECY Inn Holiday,2,  576.592 ,  160.461 ,"  0,70 ","7,3",39,2025,3,14
+HCM,10628639,EEA Central Saigon Hotel,2,  1.690.155 ,  208.895 ,"  0,25 ","8,1",642,2025,3,14
+HCM,467522,Song Anh 3 Hotel,2,  707.890 ,  117.720 ,"  0,10 ","8,6",304,2025,3,14
+HCM,1291952,Galaxy Boutique Sai Gon Central Hotel,2,  638.000 ,  462.000 ,"  0,60 ","7,8",1084,2025,3,14
+HCM,10429446,KEN HOTEL,2,  539.000 ,,"  2,20 ",8,122,2025,3,14
+HCM,5766089,Super OYO 520 Friendly Homestay,2,  402.175 ,  111.923 ,"  1,30 ","7,6",189,2025,3,14
+HCM,9870119,Ahu Hotel & Apartment,2,  406.976 ,  57.240 ,"  1,00 ",8,256,2025,3,14
+HCM,11377109,HANZ 120 Hoang Hoang Hotel,2,  5.707.128 ,  705.375 ,"  0,70 ",10,2,2025,3,14
+HCM,4207537,La Paix Sài Gòn - Boutique Hotel,2,  1.522.950 ,  622.050 ,"  0,90 ","7,8",145,2025,3,14
+HCM,572033,99 Bui Vien Hotel (Boutique),2,  478.224 ,  64.800 ,"  0,70 ","6,6",365,2025,3,14
+HCM,10916000,Lucky Star Hotel - Ben Thanh,3,  935.000 ,  7.565.000 ,"  0,90 ","7,1",76,2025,3,14
+HCM,13712802,Tago Amber,3,  1.000.000 ,,"  0,60 ",,,2025,3,14
+HCM,4428097,Emerald Central,3,  735.667 ,  263.680 ,"  2,40 ","8,2",436,2025,3,14
+HCM,9188583,Tra My Hotel - SaiGon Center,3,  540.000 ,  120.000 ,"  2,50 ","7,1",281,2025,3,14
+HCM,3996134,An Phuc House Doan Nhu Hai,3,  405.000 ,  45.000 ,"  1,00 ","7,2",97,2025,3,14
+HCM,7291499,New Star Inn Boutique Hotel-Near Bến Thành Market,3,  720.000 ,  160.000 ,"  1,00 ",7,365,2025,3,14
+HCM,11464318,Nicecy Hotel - Bui Thi Xuan Street,3,  1.360.261 ,  280.204 ,"  1,00 ","7,9",875,2025,3,14
+HCM,13481900,The Grand VL Hotel & Spa,3,  837.540 ,  93.060 ,"  0,80 ","7,9",77,2025,3,14
+HCM,9075168,Sen Vivian Home,3,  508.113 ,  68.850 ,"  1,30 ","8,6",614,2025,3,14
+HCM,10923311,KT MERAKI BOUTIQUE - Bui vien walking street,3,  660.000 ,  180.000 ,"  0,90 ","6,9",160,2025,3,14
+HCM,12288178,F F HOUSE Homestay,3,  477.360 ,  66.300 ,"  0,80 ","8,6",107,2025,3,14
+HCM,2252527,The Passion Suites Hotel & Spa,3,  891.000 ,  180.000 ,"  0,90 ","7,7",44,2025,3,14
+HCM,13122724,Nicecy Hotel Bui Vien Walking Street,3,  655.218 ,  681.961 ,"  0,70 ","6,7",97,2025,3,14
+HCM,770182,Anpha Boutique Hotel,3,  1.620.000 ,  300.000 ,"  0,20 ","8,1",89,2025,3,14
+HCM,9295740,Triple E Hotel Metro Ben Thanh,3,  1.530.900 ,  405.000 ,"  0,40 ","8,6",765,2025,3,14
+HCM,10059845,Camelia 108 Le Lai Hotel,3,  972.000 ,  180.000 ,"  0,70 ","8,2",793,2025,3,14
+HCM,11570486,Adventure Hotel,3,  598.080 ,  154.000 ,"  0,20 ","8,7",237,2025,3,14
+HCM,12313379,Tago Hotel & Spa,3,  782.000 ,  918.000 ,"  1,10 ","7,8",47,2025,3,14
+HCM,9759772,LUCASTA SAIGON Hotel,3,  590.000 ,,"  2,10 ","8,1",233,2025,3,14
+HCM,12932943,The Passion Hotel Apartment - City Central,3,  900.000 ,  200.000 ,"  0,90 ","7,7",162,2025,3,14
+HCM,12498918,Huazhu Hotel - 华住酒店,4,  1.384.150 ,  3.080.850 ,"  1,10 ","7,8",184,2025,3,14
+HCM,13166963,President Maison Signature By M Village,5,  8.220.240 ,  1.864.000 ,"  1,60 ","9,7",113,2025,3,14
+HCM,1537870,The Reverie Saigon Residential Suites,5,  7.522.843 ,  835.871 ,"  0,80 ","9,5",210,2025,3,14
+HCM,9279276,La Siesta Premium Saigon,5,  5.832.000 ,  648.000 ,"  0,35 ","9,3",1742,2025,3,14
+HCM,2784041,Sherwood Suites,5,  3.398.598 ,  377.622 ,"  1,40 ","9,3",512,2025,3,14
+HCM,1191026,The Reverie Saigon,5,  8.001.504 ,,"  0,70 ","9,3",533,2025,3,14
+HCM,345986,Park Hyatt Saigon,5,  11.050.000 ,,"  0,90 ","9,1",311,2025,3,14
+HCM,5937937,La Vela Saigon Hotel,5,  12.996.000 ,  21.204.000 ,"  2,40 ","8,9",8677,2025,3,14
+HCM,2066904,The Myst Dong Khoi,5,  6.091.740 ,  1.167.000 ,"  0,80 ",9,1683,2025,3,14
+HCM,11567463,Victory House,3,  334.800 ,,"  1,40 ","8,1",30,2025,3,14
+HCM,8390317,Chang ơi homestay Sai Gon,3,  361.000 ,,"  0,60 ","7,3",188,2025,3,14
+HCM,10410565,The Hidden HogWarts - Nearly Bùi Viện Walking street,3,  375.840 ,  41.760 ,"  0,90 ","7,7",228,2025,3,14
+HCM,474195,Gia Vien Hotel,3,  396.900 ,  44.100 ,"  0,60 ","7,4",241,2025,3,14
+HCM,252611,Meraki Hotel,3,  400.000 ,  44.444 ,"  0,90 ","6,2",235,2025,3,14
+HCM,4263066,Tan Hoang Long Hotel,3,  420.000 ,,"  2,20 ","7,2",114,2025,3,14
+HCM,10905541,LalaHouse Riverside Residence,3,  425.250 ,  182.250 ,"  2,30 ","9,2",67,2025,3,14
+HCM,8887590,HANZ Meraki Hotel 198 Bui VIen,3,  441.501 ,  539.612 ,"  0,70 ","6,5",2,2025,3,14
+HCM,6712779,Du Homestay 1,3,  450.000 ,,"  2,20 ","7,1",54,2025,3,14
+HCM,12991565,Collection O Madam Cuc Hotel,3,  463.201 ,  105.034 ,"  1,10 ","7,6",73,2025,3,14
+HCM,11581820,Le Vu Hotel,3,  486.000 ,  120.000 ,"  0,80 ","7,9",168,2025,3,14
+HCM,6515495,The Alley Saigon Hotel,3,  486.243 ,  72.657 ,"  0,90 ","7,8",224,2025,3,14
+HCM,9059339,HANZ 839 Son Mi City Loft,3,  492.481 ,  136.800 ,"  2,60 ","8,3",11,2025,3,14
+HCM,10957177,HANZ Son Mi Saigon Hotel,3,  492.481 ,  136.800 ,"  2,90 ","8,3",11,2025,3,14
+HCM,11939411,Elegant Feel Inn - M&A,3,  498.960 ,  69.300 ,"  0,45 ","8,3",214,2025,3,14
+HCM,8904350,HANZ 4021 Boutique Saigon Hotel,3,  502.740 ,  139.650 ,"  0,60 ",6,1,2025,3,14
+HCM,8745296,PHÚ GIA BÙI VIỆN HOTEl,3,  517.500 ,  115.000 ,"  0,50 ","7,1",601,2025,3,14
+HCM,10904953,Bunny - Valentine Hotel - Bui Vien Street,3,  585.000 ,  915.000 ,"  0,70 ","7,1",52,2025,3,14
+HCM,246479,Sanouva Saigon Hotel,3,  1.628.142 ,  420.708 ,"  0,30 ","8,7",778,2025,3,14
+HCM,10915959,Lucky Star Hotel - Bui Vien Walking Street,3,  1.053.000 ,  900.000 ,"  0,60 ","7,2",137,2025,3,14
+HCM,246808,Palago Park View Hotel,3,  980.846 ,  209.014 ,"  0,80 ","7,3",610,2025,3,14
+HCM,257854,Nicecy Boutique Hotel,3,  1.717.142 ,  365.915 ,"  0,20 ","7,8",2174,2025,3,14
+HCM,10322077,Ruby Star Hotel- Near Bến Thành Market,3,  810.000 ,  180.000 ,"  1,00 ","7,2",257,2025,3,14
+HCM,11368376,Vintage Boutique Hotel & Spa,3,  1.350.000 ,  200.000 ,"  0,90 ","7,2",347,2025,3,14
+HCM,709459,Lucky Star Hotel 266 De Tham,3,  990.000 ,  8.010.000 ,"  0,60 ","7,2",167,2025,3,14
+HCM,291995,White Lion Hotel,3,  855.000 ,  95.000 ,"  1,70 ",8,172,2025,3,14
+HCM,258739,Bon Ami Hotel - Thiên Xuân Hotel,3,  1.442.813 ,  381.696 ,"  0,30 ","8,2",1802,2025,3,14
+HCM,4226248,ALUNA Ben Thanh Hotel,3,  1.212.000 ,  1.313.000 ,"  0,20 ","7,5",617,2025,3,14
+HCM,264198,Ruby Saigon Hotel - Ben Thanh,3,  979.200 ,  680.000 ,"  0,30 ","7,1",132,2025,3,14
+HCM,258892,Nicecy Saigon Hotel,3,  2.419.276 ,  1.751.889 ,"  1,00 ","8,6",932,2025,3,14
+HCM,849618,GK Central Hotel,3,  1.719.900 ,  2.375.100 ,"  0,30 ","8,2",1130,2025,3,14
+HCM,9686756,HANZ 419 Sweet Escape,4,  816.954 ,  199.500 ,"  0,45 ",8,3,2025,3,14
+HCM,7839912,HANZ Son Mi Hotel Saigon,4,  492.481 ,  136.800 ,"  3,00 ",10,1,2025,3,14
+HCM,9881743,KunKin Garden Aparthotel,4,  1.734.233 ,  350.350 ,"  2,80 ","8,4",1215,2025,3,14
+HCM,2636640,Maison De Camille Boutique Hotel,4,  1.689.480 ,  361.000 ,"  3,00 ","8,8",646,2025,3,14
+HCM,4028344,Orchids Saigon Hotel,4,  2.308.500 ,  450.000 ,"  1,10 ","8,8",4382,2025,3,14
+HCM,420558,Adora Hotel,4,  2.038.149 ,  801.450 ,"  0,40 ",8,763,2025,3,14
+HCM,454954,Adora Art Hotel,4,  2.247.569 ,  806.544 ,"  0,35 ","8,2",2456,2025,3,14
+HCM,279269,Aristo Saigon Hotel,4,  1.780.538 ,  395.675 ,"  1,10 ","8,1",1086,2025,3,14
+HCM,9878058,Smile Home - SOHO Apartment balcony - Morden comfortable,4,  1.483.984 ,  355.020 ,"  1,00 ","8,4",564,2025,3,14
+HCM,9948395,Smile Home - Saigonroyal luxury Apartment - center District 4,4,  1.656.000 ,  575.000 ,"  0,80 ","8,4",181,2025,3,14
+HCM,11641501,The Concept Hotel- City Center,4,  1.890.000 ,,"  1,30 ","8,5",147,2025,3,14
+HCM,4941532,Nesta Hotel Saigon,4,  1.595.644 ,  369.362 ,"  0,35 ","8,3",242,2025,3,14
+HCM,499823,Silverland Mây Hotel,4,  3.727.080 ,  714.000 ,"  1,10 ","8,9",1335,2025,3,14
+HCM,244591,Silverland Bến Thành,4,  3.915.000 ,  750.000 ,"  0,15 ","9,1",1865,2025,3,14
+HCM,1371107,RAMADA ENCORE BY WYNDHAM SAIGON D1 - Formerly M Boutique Hotel Saigon,4,  3.090.825 ,  343.425 ,"  1,10 ","8,1",1464,2025,3,14
+HCM,3919600,Happy Life Grand Hotel & Rooftop Skybar,4,  2.544.657 ,  6.880.000 ,"  0,25 ",8,1828,2025,3,14
+HCM,246455,Cochin Zen Hotel,4,  2.357.586 ,  436.590 ,"  0,35 ","7,9",2154,2025,3,14
+HCM,1035494,Silverland Sakyo Hotel,4,  3.424.320 ,  656.000 ,"  1,30 ","8,8",638,2025,3,14
+HCM,244023,Cochin Sang Hotel,4,  2.186.782 ,  404.959 ,"  0,15 ","8,5",2231,2025,3,14
+HCM,9027004,"Gold hotel, Saigon",2,  712.800 ,  97.200 ,"  0,35 ","7,8",89,2025,3,14
+HCM,13093730,THU THAI HOTEL - Khách Sạn THƯ THÁI,2,  505.214 ,  119.828 ,"  2,70 ","7,4",65,2025,3,14
+HCM,1535862,Saigon Pink Hotel,2,  799.470 ,  148.050 ,"  0,60 ","7,2",363,2025,3,14
+HCM,10533390,Hải Nam Hotel (Sài Gòn),2,  684.000 ,  1.116.000 ,"  0,25 ","7,8",269,2025,3,14
+HCM,722752,Giang Sơn Hotel江山民宿范五老区酒吧街胡志明市,2,  540.000 ,  60.000 ,"  0,90 ","7,9",340,2025,3,14
+HCM,263092,Gia Huy Hotel,2,  880.000 ,  120.000 ,"  0,20 ","8,4",416,2025,3,14
+HCM,262081,Centana Ben Thanh Hotel,2,  708.750 ,  175.000 ,"  0,50 ","6,3",182,2025,3,14
+HCM,252722,A&A Toronto Hotel,2,  1.139.985 ,  269.500 ,"  0,25 ","7,4",923,2025,3,14
+HCM,272552,TN Central Hotel,2,  790.000 ,,"  0,90 ","6,3",999,2025,3,14
+HCM,575404,Asian Ruby Boutique Hotel Bùi Thị Xuân,2,  630.000 ,,"  0,90 ",8,330,2025,3,14
+HCM,270256,Tan Hoang Long Hotel,2,  1.020.000 ,,"  0,70 ","8,1",368,2025,3,14
+HCM,420930,Khách sạn Hồng Ngọc Hà,2,  1.010.000 ,,"  0,25 ","8,8",132,2025,3,14
+HCM,559242,Spotlight Hotel,2,  720.900 ,  80.100 ,"  1,10 ","7,8",802,2025,3,14
+HCM,1627778,Happy Land Hotel,2,  816.075 ,  139.500 ,"  0,30 ","7,3",203,2025,3,14
